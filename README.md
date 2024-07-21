@@ -4,11 +4,6 @@
 
 # DeepfakeVideo-LLaMA: An Instruction-tuned Audio-Visual Language Model for Deepfake Video Detection 
 <!-- **DeepfakeVideo-LLaMA: An Instruction-tuned Audio-Visual Language Model for Deepfake Video Detection ** -->
-
-<p align="center" width="100%">
-<a target="_blank"><img src="figs/architecture_v2.png" alt="DeepfakeVideo-LLaMA" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
-</p>
-
 ## Introduction
 
 
