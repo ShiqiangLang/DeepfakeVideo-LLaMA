@@ -1,16 +1,12 @@
-<p align="center" width="100%">
-<a target="_blank"><img src="figs/video_llama_logo.jpg" alt="Video-LLaMA" style="width: 50%; min-width: 200px; display: block; margin: auto;"></a>
-</p>
 
 
 
-# Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
-<!-- **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** -->
 
-This is the repo for the Video-LLaMA project, which is working on empowering large language models with video and audio understanding capabilities. 
+# DeepfakeVideo-LLaMA: An Instruction-tuned Audio-Visual Language Model for Deepfake Video Detection 
+<!-- **DeepfakeVideo-LLaMA: An Instruction-tuned Audio-Visual Language Model for Deepfake Video Detection ** -->
 
 <p align="center" width="100%">
-<a target="_blank"><img src="figs/architecture_v2.png" alt="Video-LLaMA" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
+<a target="_blank"><img src="figs/architecture_v2.png" alt="DeepfakeVideo-LLaMA" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
 ## Introduction
