@@ -1,0 +1,2 @@
+<Image><ImageHere></Image> Determine the video is authentic or synthesis and Tell me if there are synthesis artifacts in the face or not. Must return with yes or no only.
+
